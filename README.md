@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashranjan
-- 👀 I’m interested in MERN stack web development and RISC-V GNU compiler development/topics...
+- 👀 I’m interested in Python Software development and RISC-V toolchain stuff...
 - 🌱 Open for collaborations!!
 
 <!---
